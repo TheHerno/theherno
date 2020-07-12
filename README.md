@@ -1,4 +1,4 @@
-##### 🔭 I’m currently working as fullstack developer.
+##### 🔭 I’m currently working as fullstack MEVN developer, learning React.
 ##### I'm interesed in learning security & ethical hacking.
 ###### ⚡ Fun fact: I want to escape from Argentina, if you're from a different country please hire me 😄.
 
