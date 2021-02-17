@@ -1,6 +1,5 @@
 ##### 🔭 I’m currently working as fullstack MEVN developer, learning React.
 ##### I'm interesed in learning security & ethical hacking.
-###### ⚡ Fun fact: I want to escape from Argentina, if you're from a different country please hire me 😄.
 
 <!--
 **TheHerno/theherno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
