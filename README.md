@@ -1,5 +1,5 @@
-##### 🔭 I’m currently working as fullstack MEVN developer, learning React.
-##### I'm interesed in learning security & ethical hacking.
+##### 🔭 I’m currently working as fullstack MEVN developer.
+##### I'm looking for specializing on backend development.
 
 <!--
 **TheHerno/theherno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
