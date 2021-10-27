@@ -1,5 +1,5 @@
-##### 🔭 I’m currently working as fullstack MEVN developer.
-##### I'm looking for specializing on backend development.
+##### 🔭 I’m a fullstack developer, currently I'm specializing in backend with Go at Ohana.digital.
+##### I also have experience working with NodeJS and Vue.
 
 <!--
 **TheHerno/theherno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
