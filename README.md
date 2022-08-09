@@ -1,4 +1,4 @@
-##### 🔭 I’m a fullstack developer, currently I'm specializing in backend with Go at Ohana.digital.
+##### 🔭 I’m a fullstack developer, currently I'm specializing in backend with Go at Universal Music Group.
 ##### I also have experience working with NodeJS and Vue.
 
 <!--
